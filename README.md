@@ -1,2 +1,2 @@
 # format_fasta_for_MED
-An automated script for use in the oligotyping/Minimum Entropy Decomposition (MED) pipeline.
+This script will edit fasta headers in an alignment file as is required by the oligoptying/MED pipeline. 
