@@ -5,8 +5,6 @@
 #header info for constructing a tree in newick format. Additionally, this scripts
 #creates another alignment file with fasta headers formatted correctly for oligotyping and MED
 #*****NOTE*****: this script is specifically for dealing with the Pelton group samples.
-#there are problems with sample ID's outlined before and will need to be addressed before automation can happen.
-#this is already annoying since the pelton group didn't give uid's when the samples were processed. I can hopefully change labels on figures downstream if necessary.
 
 #imports
 import glob
